@@ -1,3 +1,4 @@
+![1000117674](https://github.com/user-attachments/assets/eaa8a82c-bec1-4353-92a5-0d6fe23d9b50)
 # JAVA
 
 Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle Corporation). It's designed to be platform-independent, allowing Java programs to run on any device that has a Java Virtual Machine (JVM) installed.
